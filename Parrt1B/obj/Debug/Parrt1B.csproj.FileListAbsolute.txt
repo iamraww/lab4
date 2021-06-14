@@ -1,0 +1,6 @@
+D:\RIDER\Lab4\Parrt1B\bin\Debug\Parrt1B.exe
+D:\RIDER\Lab4\Parrt1B\bin\Debug\Parrt1B.pdb
+D:\RIDER\Lab4\Parrt1B\obj\Debug\Parrt1B.csprojAssemblyReference.cache
+D:\RIDER\Lab4\Parrt1B\obj\Debug\Parrt1B.csproj.CoreCompileInputs.cache
+D:\RIDER\Lab4\Parrt1B\obj\Debug\Parrt1B.exe
+D:\RIDER\Lab4\Parrt1B\obj\Debug\Parrt1B.pdb
